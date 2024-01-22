@@ -24,7 +24,7 @@ sad# Contributors
 -sushil maurya
 - [JFK]
 - [Claudio Jara](https://github.com/claudiojara)
--[j.f .keneddy]
+- [j.f .keneddy]
 - [LSR]
 - [Yeressil Taupiyk](https://github.com/BalmundSM)
 -[Arshadakl] ()
